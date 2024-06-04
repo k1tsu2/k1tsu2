@@ -2,7 +2,7 @@
 🏆Welcome to My GitHub Page🏆
 
 I am a freelance engineer.
-I mainly specialize in the following skills and my areas of expertise are listed from left to right. <br>
+I mainly specialize in the following skills and my areas of expertise are listed from left. <br>
 Thank you for taking a look. Best regards.
 
 ### My Programing Skill
