@@ -1,5 +1,5 @@
 ## Hi there 👋
-🏆Welcome to My GitHub Page🏆
+🏆Welcome to My Page🏆
 
 I am a freelance engineer.
 I mainly specialize in the following skills and my areas of expertise are listed from left. <br>
