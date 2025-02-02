@@ -46,3 +46,5 @@ Thank you for taking a look. Best regards.
 
 ### Zenn
 [![Articles](https://badgen.org/img/zenn/kt27/articles?style=for-the-badge)](https://zenn.dev/kt27)
+
+Job consultation is available!
