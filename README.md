@@ -32,6 +32,9 @@ Thank you for taking a look. Best regards.
 <a href="https://play.google.com/store/apps/details?id=com.nano_invitation.todo_obfuscation_app">
     <img src="https://github.com/k1tsu2/k1tsu2/assets/108744414/779f9fdb-50b2-4f12-8ab9-c9194112dc0e" width="100px" alt="MyApp">
 </a>
+<a href="https://play.google.com/store/apps/details?id=com.nanoinvitation.diaryapp">
+    <img src="https://github.com/user-attachments/assets/093f7db1-b197-4343-8e69-f5e8df176125" width="100px" alt="MyApp">
+</a>
 
 ---
 **Website** <br>
@@ -39,6 +42,10 @@ Thank you for taking a look. Best regards.
 [My Portfolio Site](https://www.nano-invitation.com/)
 <br><br>
 [ShareList WebSite](https://www.sharelist.jp/)
+<br><br>
+[感情メディア](https://emotionaldiarylp.vercel.app/)
+<br>
+[AI感情分析日記-LP](https://emotionaldiarylp.vercel.app/lp)
 
 ---
 
